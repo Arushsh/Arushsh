@@ -1,22 +1,6 @@
-## Hi there 👋
-
-<!--
-**Arushsh/Arushsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-# Hi, I'm Arush Vishwakarma ðŸ‘‹
+# Hi, I'm Arush Vishwakarma 👋
 
 ### Full Stack Developer | Building intelligent, scalable web experiences
 
@@ -25,7 +9,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://GitHub.com/Arushsh" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/arush-vishwakarma-675456302?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/arush-vishwakarma-675456302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/aruuushhhh_45" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://my-portfolio-lemon-nu-71.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:varush395@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -38,22 +22,37 @@ Here are some ideas to get you started:
 
 <br/>
 
-## ðŸš€ About Me
+## 🚀 About Me
 
 ```yaml
 role:        Full Stack Developer (AI Web Development Intern @ InAmigos Foundation)
-education:   B.Tech Computer Science, AKTU â€” Shambhunath Institute of Engineering & Technology
-tech_stack:  Python Â· Django Â· FastAPI Â· React Â· AWS Â· Docker Â· PostgreSQL Â· MongoDB Â· Redis
-exploring:   LLMs Â· Prompt Engineering Â· Vector Databases Â· System Design
-flagship:    "Simplify" â€” AI chat app (React.js + Django REST + OpenAI API)
-achievement: Smart India Hackathon 2025 â€” Internal Winner (Cultural Heritage Android App, Firebase)
+education:   B.Tech Computer Science, AKTU — Shambhunath Institute of Engineering & Technology (2025–2028)
+location:    Prayagraj, India
+tech_stack:  Python · Django · FastAPI · React · AWS · Docker · PostgreSQL · MongoDB · Redis
+exploring:   LLMs · Prompt Engineering · Vector Databases · System Design
+flagship:    "Simplify" — AI chat app (React.js + Django REST + OpenAI API)
+achievement: Smart India Hackathon 2025 — Internal Winner (PS ID 25130, Heritage & Culture)
 content:     Sharing builds & learnings on LinkedIn
 ask_me_about: [Full Stack Dev, REST APIs, AI Integrations, System Design, Django, React]
 ```
 
 <br/>
 
-## ðŸ› ï¸ Skills Showcase
+## 🛠️ Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Simplify](https://github.com/Arushsh)** | Flagship personal AI chat app | React.js, Django REST, OpenAI API |
+| **DeadlineZero** | Autonomous AI productivity agent, built for the Vibe2Ship Hackathon (Coding Ninjas × Google for Developers) | React/Vite, FastAPI, Gemini 1.5 Flash, Firebase |
+| **SIH Travel Planner** | Smart India Hackathon 2025 — Internal Winner, Cultural Heritage app | Android, Firebase |
+| **JTGeats** | Food delivery UI — Figma-to-code conversion, no frameworks | HTML5, CSS3, JavaScript |
+| **Ecommerce Website** | Full-featured online store | — |
+| **School Management System** | Admin/student/faculty management platform | — |
+| **Healthcare Application** | Patient-facing healthcare platform | — |
+
+<br/>
+
+## 🧰 Skills Showcase
 
 <div align="center">
 
@@ -76,7 +75,8 @@ ask_me_about: [Full Stack Dev, REST APIs, AI Integrations, System Design, Django
 **AI / ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/Vector_DBs-4285F4?style=for-the-badge&logo=pinecone&logoColor=white)
 
 **Tools**
@@ -87,7 +87,14 @@ ask_me_about: [Full Stack Dev, REST APIs, AI Integrations, System Design, Django
 
 <br/>
 
-## ðŸ“Š GitHub Analytics
+## 🏆 Achievements & Certifications
+
+- 🚀 **Vibe2Ship Hackathon** (Coding Ninjas × Google for Developers) — Built & deployed DeadlineZero
+- 📜 **Softpro India** — Python/Django Training, A++ grade (Credential ID: SPI/VT/2024/406)
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -108,10 +115,10 @@ ask_me_about: [Full Stack Dev, REST APIs, AI Integrations, System Design, Django
 
 <div align="center">
 
-### ðŸ“« Let's Connect
+### 📫 Let's Connect
 
-Open to **Full Stack Developer** roles â€” always happy to talk code, AI, or system design.
+Open to **Full Stack Developer** roles — always happy to talk code, AI, or system design.
 
-â­ï¸ From [Arushsh](https://github.com/Arushsh)
+⭐️ From [Arushsh](https://github.com/Arushsh)
 
 </div>

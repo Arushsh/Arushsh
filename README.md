@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="./Assets/output.gif" alt="Profile Animation" width="100%"/>
+<img src="./Assets/ezgif-8fb3a8848a7aba7d.gif" alt="Profile Animation" width="100%"/>
 
 </div>
 

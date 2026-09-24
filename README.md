@@ -25,13 +25,13 @@
 ## 🚀 About Me
 
 ```yaml
-role:        Full Stack Developer (AI Web Development Intern @ InAmigos Foundation)
+role:        Full Stack Developer (AI Web Development)
 education:   B.Tech Computer Science, AKTU — Shambhunath Institute of Engineering & Technology (2025–2028)
 location:    Prayagraj, India
-tech_stack:  Python · Django · FastAPI · React · AWS · Docker · PostgreSQL · MongoDB · Redis
+tech_stack:  Python · Django · React · MongoDB · JavaScript 
 exploring:   LLMs · Prompt Engineering · Vector Databases · System Design
 flagship:    "Simplify" — AI chat app (React.js + Django REST + OpenAI API)
-achievement: Smart India Hackathon 2025 — Internal Winner (PS ID 25130, Heritage & Culture)
+achievement: YEP 2024 Winner
 content:     Sharing builds & learnings on LinkedIn
 ask_me_about: [Full Stack Dev, REST APIs, AI Integrations, System Design, Django, React]
 ```
@@ -44,8 +44,6 @@ ask_me_about: [Full Stack Dev, REST APIs, AI Integrations, System Design, Django
 |---|---|---|
 | **[Simplify](https://github.com/Arushsh)** | Flagship personal AI chat app | React.js, Django REST, OpenAI API |
 | **DeadlineZero** | Autonomous AI productivity agent, built for the Vibe2Ship Hackathon (Coding Ninjas × Google for Developers) | React/Vite, FastAPI, Gemini 1.5 Flash, Firebase |
-| **SIH Travel Planner** | Smart India Hackathon 2025 — Internal Winner, Cultural Heritage app | Android, Firebase |
-| **JTGeats** | Food delivery UI — Figma-to-code conversion, no frameworks | HTML5, CSS3, JavaScript |
 | **Ecommerce Website** | Full-featured online store | — |
 | **School Management System** | Admin/student/faculty management platform | — |
 | **Healthcare Application** | Patient-facing healthcare platform | — |

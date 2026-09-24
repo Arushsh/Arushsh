@@ -56,7 +56,7 @@ ask_me_about: [Full Stack Dev, REST APIs, AI Integrations, System Design, Django
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
 
 **Frontend**
 
@@ -64,11 +64,11 @@ ask_me_about: [Full Stack Dev, REST APIs, AI Integrations, System Design, Django
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
 
 **AI / ML**
 
